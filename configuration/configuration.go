@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/rosetta-dogecoin/rosetta-dogecoin/bitcoin"
+	"github.com/coinbase/rosetta-bitcoin/bitcoin"
 
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/coinbase/rosetta-sdk-go/storage/encoder"

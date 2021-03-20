@@ -23,7 +23,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/rosetta-dogecoin/rosetta-dogecoin/utils"
+	"github.com/coinbase/rosetta-bitcoin/utils"
 
 	"golang.org/x/sync/errgroup"
 )

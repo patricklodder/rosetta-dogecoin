@@ -20,7 +20,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/rosetta-dogecoin/rosetta-dogecoin/bitcoin"
+	"github.com/coinbase/rosetta-bitcoin/bitcoin"
 
 	"github.com/coinbase/rosetta-sdk-go/storage/encoder"
 	"github.com/coinbase/rosetta-sdk-go/types"
